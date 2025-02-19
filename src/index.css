@@ -1,0 +1,14 @@
+/* Google fonts - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", serif;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(to top, rgba(230,255,175,0.8701855742296919) 35%, rgba(255,255,255,1) 100%);
+}
